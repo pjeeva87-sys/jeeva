@@ -1,3 +1,3 @@
-print("Kumar")
-print("Kamala")
-
+print("kumar")
+print("kamala")
+print("mugesh")
